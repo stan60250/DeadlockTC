@@ -288,7 +288,7 @@
 		
 		"citadel_ability_lightning_dodge_passive_desc"	"你的衝刺讓你無敵，並且比其他人更快"
 		"citadel_ability_basicdamagereflect_desc"	"反射一部分近戰和子彈傷害回其來源。"
-		"citadel_ability_bullet_damage_amp_wall_desc"	"創建一個增幅牆，增加所有穿透它的友方子彈的傷害。"
+		"citadel_ability_bullet_damage_amp_wall_desc"	"建立一個增幅牆，增加所有穿透它的友方子彈的傷害。"
 		"citadel_ability_psychic_drain_desc"		"從附近的敵人身上吸取能量，減少他們的移動和攻擊速度。在5秒內對所有造成的傷害進行治療。"
 
 		"citadel_ability_rocket_blast_desc"			"發射一枚火箭，造成區域傷害。"
