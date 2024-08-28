@@ -815,7 +815,7 @@
 		"Citadel_PlayerCard_FavoriteHero"							"使用最多的英雄"
 
 		"Citadel_Party_Context_Invite"								"邀請好友"
-		"Citadel_Party_Context_Open"								"打開隊伍"
+		"Citadel_Party_Context_Open"								"開啟隊伍"
 		"Citadel_Party_Context_Close"								"關閉隊伍"
 		"Citadel_Party_Context_CopyCode"							"複製隊伍代碼"
 		"Citadel_Party_Context_ShowCode"							"顯示隊伍代碼"
@@ -1576,8 +1576,8 @@
 		"citadel_settings_invert_ping_desc"				"檢查是否需要反轉信號。<br/>預設：<br/>單信號 = 被動<br/>雙信號 = 主動<br/><br/>反轉：<br/>單信號 = 主動<br/>雙信號 = 被動"
 		"citadel_settings_openmicthreshold_desc"		"僅當音訊輸入音量超過此級別時才傳送聲音。適用於“按下發言”及“開放式麥克風”。"
 		"citadel_settings_open_mic_desc"				"啟用開放式麥克風"
-		"citadel_settings_monitor_mic_desc"				"打開此功能可以在調整音訊設定時監聽你的麥克風。"
-		"citadel_settings_streamlined_mic_desc"			"在遊戲開始時打開錄音設備，而不是在使用麥克風時打開。"
+		"citadel_settings_monitor_mic_desc"				"開啟此功能可以在調整音訊設定時監聽你的麥克風。"
+		"citadel_settings_streamlined_mic_desc"			"在遊戲開始時開啟錄音設備，而不是在使用麥克風時開啟。"
 		"citadel_settings_defaultaudio"					"預設"
 		"citadel_settings_sounddevice"					"音訊設備："
 		"citadel_settings_voice_sounddevice"			"語音輸入設備："
@@ -1819,9 +1819,9 @@
 		"citadel_keybind_decrease_replay_speed"				"重播 減少速度"
 		"citadel_keybind_toggle_replay_pause"				"重播 開關暫停"
 
-		"citadel_keybind_dev_console"					"打開控制台"
+		"citadel_keybind_dev_console"					"開啟控制台"
 		"citadel_keybind_alt_modifier"					"Alt 設定"
-		"citadel_keybind_open_hero_sheet"				"打開商店"
+		"citadel_keybind_open_hero_sheet"				"開啟商店"
 		"citadel_keybind_scoreboard"					"比分板"
 		"citadel_keybind_roll"							"衝刺"
 		"citadel_keybind_reload"						"換彈"
@@ -1840,7 +1840,7 @@
 		"citadel_keybind_toggle_free_cursor"			"切換自由滑鼠"
 
 		"citadel_mute_game_audio"						"靜音遊戲"
-		"citadel_unmute_game_audio"						"遊戲聲音打開"
+		"citadel_unmute_game_audio"						"遊戲聲音開啟"
 		"citadel_game_audio_muted"						"遊戲已靜音"
 		"citadel_game_audio_press_unmute"				"按下 [{s:key_toggle_mute}]解除靜音"
 

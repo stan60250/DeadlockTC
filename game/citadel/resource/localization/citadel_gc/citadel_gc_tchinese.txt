@@ -148,7 +148,7 @@
 		"ItemHistory_Action_LimitedDraft"								"被製作的卡牌"
 		"ItemHistory_Action_GauntletAbandoned"							"Gauntlet Abandoned"
 		"ItemHistory_Action_PackOpenedNewItem"							"從卡包中獲得"
-		"ItemHistory_Action_PackOpenedRemoved"							"卡包已打開"
+		"ItemHistory_Action_PackOpenedRemoved"							"卡包已開啟"
 		"ItemHistory_Action_GauntletEntryFee"							"Gauntlet Entry Fee"
 		"ItemHistory_Action_TourneyAbandoned"							"Tournament Abandoned"
 		"ItemHistory_Action_TourneyEntryFeePaid"						"錦標賽入場費"
@@ -170,7 +170,7 @@
 		"ItemHistory_Transaction_Recycled"								"已輪迴"
 		"ItemHistory_Transaction_PennantUpgrade"						"錦旗等級已升級"
 		"ItemHistory_Transaction_ApplyEssence"							"Infused an egg with essence"
-		"ItemHistory_Transaction_OpenPlayerCardPack"					"一個選手卡包已打開"
+		"ItemHistory_Transaction_OpenPlayerCardPack"					"一個選手卡包已開啟"
 		"ItemHistory_Transaction_PlayerCardRecycle"						"已回收為粉塵"
 
 		"ItemHistory_ItemIsInInventory"		"在庫存中"
